@@ -1,5 +1,6 @@
 const path = require('path');
 const packageJson = require(path.join(__dirname, './package.json'));
+
 class Haiku {
     constructor(name) {
         this.name = name;
@@ -10,9 +11,7 @@ class Haiku {
         // You might want to initialize other properties here
     }
     // Method to add a neuron to this Haiku
-    addNeuron() {
-        
-    }
+
     // Method to animate the Haiku
     animate() {
         // Add your animation logic here
