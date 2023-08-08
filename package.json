@@ -1,0 +1,14 @@
+{
+  "name": "this.haiku",
+  "version": "1.2.3",
+  "description": "Introducing an haiku an ai service for this.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Haiku"
+  ],
+  "author": "suiGn",
+  "license": "MIT"
+}
