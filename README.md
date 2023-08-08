@@ -1,3 +1,5 @@
+<img src="./_._.svg" alt="SVG Image" width="123" height="123" style="width123px; height:123px;">
+
 # this.haiku
 
 `this.haiku` is currently in development as part of the `this.me` suite of tools.
