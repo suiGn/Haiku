@@ -9,6 +9,12 @@
   "keywords": [
     "Haiku"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiGn/Haiku.git"
+  },
+  "homepage": "https://www.npmjs.com/package/this.haiku",
+  "docs": "https://suiGn.github.io/Haiku",
   "author": "suiGn",
   "license": "MIT",
   "repoType": "NPM Package"
