@@ -1,24 +1,37 @@
 <img src="./_._.svg" alt="SVG Image" width="123" height="123" style="width123px; height:123px;">
 
-# this.haiku
+# Haiku
 
-`this.haiku` is currently in development as part of the `this.me` suite of tools.
+## Knowledge Files Repository for HAIKU GPT Training
 
 ## Introduction
+https://chat.openai.com/g/g-4O4Nb4hm3-haiku
+Welcome to the Haiku Knowledge Files Repository, a dedicated space within our GPTS framework designed to store and organize the markdown files that serve as training material for our Generative Pre-trained Transformer models. This repository plays a crucial role in shaping the intelligence and effectiveness of our GPT models by providing them with a rich and structured set of knowledge files.
 
-Introducing `this.haiku`, a new AI service for `this.me`. Named to symbolize the essence of insight, `this.haiku` represents an exciting development in the field of AI.
+## Purpose
 
-## Stay Up to Date
+The primary goal of this repository is to curate and maintain a collection of markdown files that are instrumental in training and refining GPTS models. These files encompass a wide range of topics and domains, offering a comprehensive knowledge base for the models to learn from and interact with.
 
-To stay informed about the progress of `this.haiku` and to learn more about our other developments:
+## Repository Structure
 
-- Visit the [`this.me`](https://this.me/) platform.
-- Explore the [neurons.me website](https://neurons.me/).
+- **Main.md**: This document acts as the entry point to the repository. It provides an overview of the knowledge files contained within and serves as a guide to navigate through the various documents, ensuring quick and efficient access to the relevant content.
 
-## License
+- **Knowledge Files**: Each `.md` file within the repository is structured to facilitate easy ingestion by GPTS models. These files are crafted and organized meticulously to ensure that the models can derive meaningful patterns, context, and insights from the content.
 
-This project is licensed under the MIT License.
+## Using the Repository
 
-------
+- **Training GPTS Models**: The markdown files in this repository are utilized to train GPTS models, enabling them to acquire knowledge, understand context, and generate responses based on the information contained within these files.
 
-Thank you for your interest in `this.haiku`. Keep an eye on `this.me` and `neurons.me` for updates and news on this development!
+- **Reference and Research**: Beyond model training, these files can also serve as a reference point for researchers and developers looking to understand the knowledge base of the models or to contribute to the repository.
+
+- **Contribution**: Contributors are encouraged to add to and enhance the knowledge files, ensuring that the GPTS models remain up-to-date with the latest information and insights across various domains.
+
+## Contribution Guidelines
+
+We welcome contributions to the knowledge files. If you wish to contribute, please ensure that your submissions are well-structured, coherent, and relevant to the GPTS training objectives. For detailed guidelines on contributing, please refer to the CONTRIBUTING.md file.
+
+## Final Note
+
+This repository is in continuous development, reflecting the evolving nature of knowledge and information. As the GPTS models grow and adapt, so too will the content and structure of this repository, ensuring that our models remain at the forefront of AI research and application.
+
+Join us in this exciting journey to empower GPTS with a profound and expansive knowledge base, paving the way for more intelligent and context-aware generative models.
