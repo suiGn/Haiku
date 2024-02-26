@@ -8,13 +8,13 @@ class Haiku {
         this.version = {
             Haiku: packageJson.version
         };
-        // You might want to initialize other properties here
+     
     }
     // Method to add a neuron to this Haiku
 
     // Method to animate the Haiku
     animate() {
-        // Add your animation logic here
+        // animation logic here
     }
     // Method to process an image
     processImage(image) {
