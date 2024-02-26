@@ -2,6 +2,12 @@
 
 # Haiku
 
+GPT Training Integration: In the context of GPT training, Haiku can act as a container or interface for specific sets of knowledge or functionalities. This could mean that when Haiku is used in training, it can dynamically access and provide the necessary data from the knowledge files, enhancing the training process with context-specific intelligence.
+
+Standalone Node Module: As a Node module, Haiku can be imported into any Node.js application, providing external applications with access to its methods and, potentially, to the underlying knowledge files. This opens up possibilities for developers to use Haiku's functionalities, including data retrieval, processing, and any other logic you embed within its methods.
+------------
+The Haiku module is currently in a dynamic phase of development and exploration, aimed at refining its functionalities and maximizing its utility both as a GPT training tool and a standalone Node.js module. As such, it is subject to significant changes and enhancements in the near future. Users and developers are encouraged to engage with the module, keeping in mind that its current features and capabilities are evolving. This developmental stage is crucial for adapting Haiku to a wide range of use cases and for ensuring that it meets the high standards required for both GPT training applications and external Node.js module integrations.
+------------
 ## Knowledge Files Repository for HAIKU GPT Training
 
 ## Introduction
