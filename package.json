@@ -1,6 +1,6 @@
 {
   "name": "this.haiku",
-  "version": "1.2.9",
+  "version": "1.3.0",
   "description": "Introducing an haiku an ai service for this.me",
   "main": "Haiku.js",
   "scripts": {
