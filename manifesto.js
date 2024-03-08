@@ -1,4 +1,4 @@
-class DigitalRevolution {
+class Digitalities {
     constructor() {
       this.wind = "Digital";
       this.challenge = "Monopolies";
@@ -7,16 +7,16 @@ class DigitalRevolution {
   
     resist() {
       if (this.wind === "Digital") {
-        this.challengeMonopolies();
+        this.challengePolies();
       }
       return this.freedom;
     }
   
-    challengeMonopolies() {
+    challengePolies() {
       console.log("Challenging monopolized data practices...");
       this.freedom = "Unshackled code spirit";
     }
   }
   
-  const revolution = new DigitalRevolution();
-  console.log(revolution.resist());
+  const rev = new Digitalities();
+  console.log(rev.resist());
